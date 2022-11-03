@@ -1,6 +1,24 @@
-### Hello there 👋
 
-### "Général Kenobi."
+# Hi, I'm Lunesombre, aka Romain.
+
+![This is me](Images/romain.jpg)
+
+## I'm an apprentice developper
+
+
+### I'm currently learning
+
+> -**HTML5**
+>
+> -**CSS3**
+>
+> -**Javascript**
+>
+> and experimenting with**Git**.
+>
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/romain-touchet-d%C3%A9veloppeur-web/)
+
 
 <!--
 **Lunesombre/Lunesombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
