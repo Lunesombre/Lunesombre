@@ -1,7 +1,9 @@
 
 # Hi, I'm Lunesombre, aka Romain.
 
-![Hello](https://i.gifer.com/4AIB.gif)
+<center>
+![Hello](images/hello_rabbit.gifgit status)
+</center>
 
 ## I'm an apprentice developper
 
