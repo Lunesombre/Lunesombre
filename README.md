@@ -12,51 +12,60 @@
 
 <h3>I'm currently learning</h3>
 
-- <img src="images/html-1.svg" width=20px> **HTML5** 
+- <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&style=plastic">
 
-- <img src="images/css-3.svg" width=20px> **CSS3**
+- <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=2965f1&style=plastic">
 
-- <img src="images/javascript-1.svg" width=20px> **Javascript**
+- <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=F0DB4F&style=plastic">
 
-and experimenting with <img src="images/git-icon.svg" width=20px> **Git**.
+and experimenting with <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=f34f29&style=plastic"> .
 
 <h3>Soon we'll start</h3>
 <p>
 
-- working with <img src="images/linux-tux-2.svg" title="Tux" alt="Linux's Tux" width=20px> **Linux**
+- working with <img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=white&style=plastic">
 
-- working on  databases and learning <img src="images/sql.svg" width=20px alt="SQL logo" title="SQL"> **SQL**
+- working on  databases and learning <img src="https://img.shields.io/badge/-SQL-black?&logoColor=2965f1&style=plastic">
 
-- learning the <img src="images/angular-icon-1.svg" alt="Angular logo" title="Angular" width=20px> **Angular** framework
+- learning the <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=c3002f&style=plastic"> framework.
 
-- learning <img src="images/php-1.svg" titre="PHP" alt="PHP logo" width=20px> **PHP** and the <img src="images/symfony.svg" width=20px alt="Symfony logo" title="Symfony"> **Symfony** framework.
+- learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> and the  <img src="https://img.shields.io/badge/-Symfony-black?logo=Symfony&logoColor=white&style=plastic"> framework.
 </p>
 
-- working with <img src="images/wordpress-blue.svg" alt="Wordpress logo blue" title="Worpress" width=20px> **Wordpress**
+- working with <img src="https://img.shields.io/badge/-Wordpress-black?logo=Wordpress&logoColor=21759b&style=plastic">
 
 <h3>I also have a little experience with</h3>
 <p>
 
-- <img src="images/trello.svg" width=20px alt="Trello logo" title="Trello"> **Trello**
+- <img src="https://img.shields.io/badge/-Trello-black?logo=Trello&logoColor=298fca&style=plastic">
 
-- <img src="images/figma-1.svg" width=20px height=20px alt="Figma ogo" title="Figma"> **Figma**
+- <img src="https://img.shields.io/badge/-Figma-black?logo=Figma&logoColor=e04a34&style=plastic">
 
 </p>
 
-You can reach me on <a href=https://www.linkedin.com/in/romain-touchet-d%C3%A9veloppeur-web><img src="images/linkedin-icon-2.svg" alt="LinkedIn" title="LinkedIn" width= 20px></a> .
+<h2>Apart from web development, I'm interested in</h2>
+
+- Aeronautics and space industries.
+
+        I'm a space exploration and astronomy enthusiast. 
+        I can spend hours watching the sky with binoculars or my Newton 300 telescope.
+
+- Energy industries, especially clean ones as (scientific) ecology is a matter of utmost importance for me.
+
+        Wind turbine, hydroelectric, nuke, carbon-capture and cogeneration... Also 
+
+- I cook. A. LOT. 
+
+        That's how I got my wife ;)
+
+- Gardening
+
+        I grow food (leeks, potatoes and sweet potatoes, onions...), trees (Olive trees, Alizia julibrissini...), flowers...
+        My terrace (pretty large) is looking like a jungle. :)
 
 
-<!--
-**Lunesombre/Lunesombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+You can reach me on <a href=https://www.linkedin.com/in/romain-touchet-d%C3%A9veloppeur-web><img src="https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn&logoColor=007bb5&style=plastic" alt="LinkedIn" title="LinkedIn"></a> or via email at <a href="mailto:romain.touchet+github@gmail.com">romain.touchet@gmail.com</a>.
+
