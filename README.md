@@ -2,7 +2,9 @@
 # Hi, I'm Lunesombre, aka Romain.
 
 <center>
-![Hello](/images/hello_rabbit.gif)
+
+![Hello](/images/hello_rabbit.gif "Hello Rabbit")
+
 </center>
 
 ## I'm an apprentice developper
