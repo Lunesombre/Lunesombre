@@ -1,20 +1,20 @@
 
 # Hi, I'm Lunesombre, aka Romain.
 
-![This is me](Images/romain.jpg)
+![Hello](https://i.gifer.com/4AIB.gif)
 
 ## I'm an apprentice developper
 
 
 ### I'm currently learning
 
-> -**HTML5**
+> - **HTML5**
 >
-> -**CSS3**
+> - **CSS3**
 >
-> -**Javascript**
+> - **Javascript**
 >
-> and experimenting with**Git**.
+> and experimenting with **Git**.
 >
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/romain-touchet-d%C3%A9veloppeur-web/)
