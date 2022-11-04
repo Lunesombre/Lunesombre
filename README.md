@@ -52,7 +52,7 @@ and experimenting with <img src="https://img.shields.io/badge/-Git-black?logo=Gi
 
 - Energy industries, especially clean ones as (scientific) ecology is a matter of utmost importance for me.
 
-        Wind turbine, hydroelectric, nuke, carbon-capture and cogeneration... Also 
+        Wind turbine, hydroelectric, nuke, carbon-capture and cogeneration...
 
 - I cook. A. LOT. 
 
