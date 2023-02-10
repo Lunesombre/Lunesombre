@@ -37,7 +37,7 @@
 
 <h4>I'm planning my work on </h4>
      
-- <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=000000&style=plastic">
+- <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=FFFFFF&style=plastic">
      
 <h4>I have also a litte experience on </h4>
 <p>
