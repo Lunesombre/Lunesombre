@@ -20,16 +20,16 @@
 
 - <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=f34f29&style=plastic">
 
-- working with <img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=white&style=plastic"> and <img src="https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=#E95420&style=plastic">.
+- working with <img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=white&style=plastic"> and <img src="https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=E95420&style=plastic">.
 
-<h3>I'm currently learning to design, manage & admin databases - <img src="https://img.shields.io/badge/-SQL-black?&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=#4479A1&style=plastic">
+<h3>I'm currently learning to design, manage & admin databases - <img src="https://img.shields.io/badge/-SQL-black?&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=4479A1&style=plastic">
 
 <h3>Soon I'll be learning </h3>
 <p>
      
 - learning the <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=c3002f&style=plastic"> framework.
 
-- learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> and the  <img src="https://img.shields.io/badge/-Symfony-black?logo=Symfony&logoColor=white&style=plastic"> framework, and using <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=#2496ED&style=plastic">
+- learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> and the  <img src="https://img.shields.io/badge/-Symfony-black?logo=Symfony&logoColor=white&style=plastic"> framework, and using <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=2496ED&style=plastic">
      
 </p>
 
@@ -37,7 +37,7 @@
 
 <h4>I'm planning my work on </h4>
      
-- <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=#000000&style=plastic">
+- <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=000000&style=plastic">
      
 <h4>I have also a litte experience on </h4>
 <p>
