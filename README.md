@@ -10,37 +10,37 @@
 <p>After some self-training, I integrated a one-year training course to validate a web developper diploma with <a href="https://humanbooster.com/"><img src="images/Logo_HB.png" title="Human Booster" alt="Human Booster" width=20px></a>.
 </p>
 
-<h3>I'm currently learning</h3>
+<h3>Techs I'm already used with :</h3>
 
 - <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&style=plastic">
 
-- <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=2965f1&style=plastic">
+- <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-Bootstrap-black?logo=Bootstrap&logoColor=blueviolet&style=plastic">
 
-- <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=F0DB4F&style=plastic">
+- <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=F0DB4F&style=plastic"> (vanilla so far)
 
-and experimenting with <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=f34f29&style=plastic"> .
+- <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=f34f29&style=plastic">
 
-<h3>Soon we'll start</h3>
+- working with <img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=white&style=plastic"> and <img src="https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=#E95420&style=plastic">.
+
+<h3>I'm currently learning to design, manage & admin databases - <img src="https://img.shields.io/badge/-SQL-black?&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=#4479A1&style=plastic">
+
+<h3>Soon I'll be learning </h3>
 <p>
-
-- working with <img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=white&style=plastic">
-
-- working on  databases and learning <img src="https://img.shields.io/badge/-SQL-black?&logoColor=2965f1&style=plastic">
-
 - learning the <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=c3002f&style=plastic"> framework.
 
-- learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> and the  <img src="https://img.shields.io/badge/-Symfony-black?logo=Symfony&logoColor=white&style=plastic"> framework.
+- learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> and the  <img src="https://img.shields.io/badge/-Symfony-black?logo=Symfony&logoColor=white&style=plastic"> framework, and using <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=#2496ED&style=plastic">
 </p>
 
 - working with <img src="https://img.shields.io/badge/-Wordpress-black?logo=Wordpress&logoColor=21759b&style=plastic">
 
-<h3>I also have a little experience with</h3>
+<h4>I'm planning my work on </h4>
+- <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=#000000&style=plastic">
+     
+<h4>I have also a litte experience on </h4>
 <p>
-
 - <img src="https://img.shields.io/badge/-Trello-black?logo=Trello&logoColor=298fca&style=plastic">
 
 - <img src="https://img.shields.io/badge/-Figma-black?logo=Figma&logoColor=e04a34&style=plastic">
-
 </p>
 
 <h2>Apart from web development, I'm interested in</h2>
