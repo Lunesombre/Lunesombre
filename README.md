@@ -26,21 +26,26 @@
 
 <h3>Soon I'll be learning </h3>
 <p>
+     
 - learning the <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=c3002f&style=plastic"> framework.
 
 - learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> and the  <img src="https://img.shields.io/badge/-Symfony-black?logo=Symfony&logoColor=white&style=plastic"> framework, and using <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=#2496ED&style=plastic">
+     
 </p>
 
 - working with <img src="https://img.shields.io/badge/-Wordpress-black?logo=Wordpress&logoColor=21759b&style=plastic">
 
 <h4>I'm planning my work on </h4>
+     
 - <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=#000000&style=plastic">
      
 <h4>I have also a litte experience on </h4>
 <p>
+     
 - <img src="https://img.shields.io/badge/-Trello-black?logo=Trello&logoColor=298fca&style=plastic">
 
 - <img src="https://img.shields.io/badge/-Figma-black?logo=Figma&logoColor=e04a34&style=plastic">
+     
 </p>
 
 <h2>Apart from web development, I'm interested in</h2>
