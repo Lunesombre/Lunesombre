@@ -24,7 +24,7 @@
 
 - design, manage & admin databases - <img src="https://img.shields.io/badge/-SQL-black?&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=4479A1&style=plastic">
 
-<h3>I'm currently learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> (Damn, oriented-object programming is so cool yet hard !), and working in <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=2496ED&style=plastic"> containers.
+<h3>I'm currently learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> (Man, I love PDO), and working in <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=2496ED&style=plastic"> containers.
 
 <h3>Soon I'll be :</h3>
 <p>
