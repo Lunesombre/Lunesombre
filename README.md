@@ -10,30 +10,35 @@
 <p>After some self-training, I integrated a one-year training course to validate a web developper diploma with <a href="https://humanbooster.com/"><img src="images/Logo_HB.png" title="Human Booster" alt="Human Booster" width=20px></a>.
 </p>
 
+<p> I'm also planning to do a 1 year work-study program starting in September 2023 with <a href="http://www.school-by-hiit.fr/"><img src="images\Icones\SchoolByHiit.png"
+title="School by Hiit" alt="School by Hiit" width=20px></a> to learn [Java](https://img.shields.io/badge/-Java-black?style=plastic) , <img src="https://img.shields.io/badge/-spring-black?logo=spring&logoColor=6DB33F&style=plastic">, <img src="https://img.shields.io/badge/-hibernate-black?logo=hibernate&logoColor=59666C&style=plastic">... And gain experience within a company ! 
+If you're interested in a work-study student, please contact me at <a href="romain.touchet+github@gmail.com"
+</p>
+
 <h3>Techs I'm already used with :</h3>
 
-- <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&style=plastic">
+- <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&style=plastic">, <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-Bootstrap-black?logo=Bootstrap&logoColor=blueviolet&style=plastic">
 
-- <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-Bootstrap-black?logo=Bootstrap&logoColor=blueviolet&style=plastic">
+- <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=F0DB4F&style=plastic">
 
-- <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=F0DB4F&style=plastic"> (vanilla so far)
+- <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> and <img src="https://img.shields.io/badge/-Symfony-black?logo=Symfony&logoColor=white&style=plastic">
 
 - <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=f34f29&style=plastic">
 
-- working with <img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=white&style=plastic"> and <img src="https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=E95420&style=plastic">.
-
 - design, manage & admin databases - <img src="https://img.shields.io/badge/-SQL-black?&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=4479A1&style=plastic">
 
-<h3>I'm currently learning <img src="https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=777BB3&style=plastic"> (Man, I love PDO), and working in <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=2496ED&style=plastic"> containers.
+- working in <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=2496ED&style=plastic"> containers.
+    
+- working with <img src="https://img.shields.io/badge/-Linux-black?logo=Linux&logoColor=white&style=plastic"> and <img src="https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=E95420&style=plastic">.
+
+<h3>I'm currently learning  <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript&logoColor=3178C6&style=plastic">.
 
 <h3>Soon I'll be :</h3>
 <p>
-    
-- working with the <img src="https://img.shields.io/badge/-Symfony-black?logo=Symfony&logoColor=white&style=plastic"> framework.      
      
-- learning the <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=c3002f&style=plastic"> framework.
+- learning to work with <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=c3002f&style=plastic">.
      
-- working with <img src="https://img.shields.io/badge/-Wordpress-black?logo=Wordpress&logoColor=21759b&style=plastic">
+- and also <img src="https://img.shields.io/badge/-Wordpress-black?logo=Wordpress&logoColor=21759b&style=plastic">
      
 </p>
 
