@@ -11,7 +11,7 @@
 </p>
 
 <p> I'm also planning to do a 1 year work-study program starting in September 2023 with <a href="http://www.school-by-hiit.fr/"><img src="images/SchoolByHiit.png"
-title="School by Hiit" alt="School by Hiit" width=20px></a> to learn <img src="https://img.shields.io/badge/-Java-black?style=plastic"> , <img src="https://img.shields.io/badge/-spring-black?logo=spring&logoColor=6DB33F&style=plastic">, <img src="https://img.shields.io/badge/-hibernate-black?logo=hibernate&logoColor=59666C&style=plastic">... And gain experience within a company ! 
+title="School by Hiit" alt="School by Hiit" width=60px></a> to learn <img src="https://img.shields.io/badge/-Java-black?style=plastic"> , <img src="https://img.shields.io/badge/-spring-black?logo=spring&logoColor=6DB33F&style=plastic">, <img src="https://img.shields.io/badge/-hibernate-black?logo=hibernate&logoColor=59666C&style=plastic">... And gain experience within a company ! 
 If you're interested in a work-study student, please contact me at <a href="romain.touchet+github@gmail.com"
 </p>
 
