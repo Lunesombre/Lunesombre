@@ -1,21 +1,21 @@
 
-<h1>Hi, I'm Lunesombre, aka Romain.</h1>
+# Hi, I'm Lunesombre, aka Romain.</h1>
 
 
 <img src="images/hello_rabbit.gif" title="Hello Rabbit" alt="Rabbit saying hello">
 
 
-<h2>I'm an apprentice developper</h2>
+## I'm an apprentice developper</h2>
 
 <p>After some self-training, I integrated in September 2022 a one-year web developper training course with Human Booster <a href="https://humanbooster.com/"><img src="images/Logo_HB.png" title="Human Booster" alt="Human Booster" width=20px></a>.
 </p>
-
-<p> Then I joined a 1 year work-study program starting in September 2023 with <a href="http://www.school-by-hiit.fr/"><img src="images/SchoolByHiit.png"
-title="School by Hiit" alt="School by Hiit" width=60px></a> to learn <img src="https://img.shields.io/badge/-Java-black?style=plastic"> , <img src="https://img.shields.io/badge/-spring-black?logo=spring&logoColor=6DB33F&style=plastic">, <img src="https://img.shields.io/badge/-hibernate-black?logo=hibernate&logoColor=59666C&style=plastic">... 
-<div>And gain experience within a company !</div> 
+<p>
+Then I joined a 1-year work-study program starting in September 2023 with <a href="http://www.school-by-hiit.fr/"><img src="images/SchoolByHiit.png"
+title="School by Hiit" alt="School by Hiit" width=60px></a> to learn <img src="https://img.shields.io/badge/-Java-black?style=plastic"> , <img src="https://img.shields.io/badge/-spring-black?logo=spring&logoColor=6DB33F&style=plastic">...
 </p>
+<div>And gain experience within a company !</div> 
 
-<h3>Techs I'm already used with :</h3>
+### Techs I'm already used with :
 
 - <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&style=plastic">, <img src="https://img.shields.io/badge/-CSS3-black?logo=CSS3&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-Bootstrap-black?logo=Bootstrap&logoColor=blueviolet&style=plastic">
 
@@ -25,45 +25,52 @@ title="School by Hiit" alt="School by Hiit" width=60px></a> to learn <img src="h
 
 - <img src="https://img.shields.io/badge/-Git-black?logo=Git&logoColor=f34f29&style=plastic">
 
-- design, manage & admin databases - <img src="https://img.shields.io/badge/-SQL-black?&logoColor=2965f1&style=plastic"> and <img src="https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=4479A1&style=plastic">
+- design, manage & admin databases - ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=MySQL&logoColor=4479A1&style=plastic) and ![POSTGRESQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&logoColor=4169E1&style=plastic) and a little bit of NOSQL.
 
-- working in <img src="https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=2496ED&style=plastic"> containers.
-
-<h3>I'm currently learning <img src="https://img.shields.io/badge/-Java-black?style=plastic">, on both <img src="https://img.shields.io/badge/-Eclipse-black?logo=eclipseide&style=plastic&logoColor=2C2255"> and <img src="https://img.shields.io/badge/-IntelliJ-black?logo=intellijidea&style=plastic">.
-
-<h3>This year I will also :</h3>
-<p>
-    
-- learn to work with <img src="https://img.shields.io/badge/-Spring-black?logo=spring&style=plastic">, ![SPRING BOOT](https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot&style=plastic) & ![SPRING SECURITY](https://img.shields.io/badge/-Spring%20Security-black?logo=springsecurity&style=plastic)
-
-- learn to better design and use tests mostly with ![JUnit](https://img.shields.io/badge/-JUnit-black?logo=junit5&style=plastic).
-     
-- improve my <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript&logoColor=3178C6&style=plastic"> and <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=c3002f&style=plastic"> skills ; and learn about ![PWA](https://img.shields.io/badge/-PWA-black?logo=pwa&style=plastic&logoColor=5A0FC8) (Progressive Web Apps).
-
-     
-- and many others things, including :
-    - message brokers ![KAFKA](https://img.shields.io/badge/-Kafka-black?logo=apachekafka&style=plastic), and ![JMS](https://img.shields.io/badge/-JMS-black?style=plastic)
-
-    - ![JENKINS](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=plastic) & ![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible&style=plastic&logoColor=EE0000)
-
-    - ![KUBERNETES](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=plastic&logoColor=326CE5)
-     
-</p>
+- working with ![DOCKER](https://img.shields.io/badge/-Docker-black?logo=Docker&logoColor=2496ED&style=plastic) .
 
 
-<h4>I'm planning my work on </h4>
-     
-- <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=FFFFFF&style=plastic">
-     
-<h4>I have also a litte experience on </h4>
+
+### This year I have :
 
 
-- <img src="https://img.shields.io/badge/-Figma-black?logo=Figma&logoColor=e04a34&style=plastic">
+- **mostly learned ![JAVA](https://img.shields.io/badge/-Java-black?style=plastic) (from 8 up to 21)** 
+  - and worked with Java-related technologies as ![SPRING](https://img.shields.io/badge/-Spring-black?logo=spring&style=plastic), ![SPRING BOOT](https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot&style=plastic), ![SPRING SECURITY](https://img.shields.io/badge/-Spring%20Security-black?logo=springsecurity&style=plastic) & ![HIBERNATE](https://img.shields.io/badge/-hibernate-black?logo=hibernate&logoColor=59666C&style=plastic), Spring Data, myBatis, MapStruct...
+  - had an introduction to message brokers as ![KAFKA](https://img.shields.io/badge/-Kafka-black?logo=apachekafka&style=plastic) and ActiveMQ
+  - worked on both ![ECLIPSE](https://img.shields.io/badge/-Eclipse-black?logo=eclipseide&style=plastic&logoColor=2C2255) and <img src="Images/heart.png" style="width:20px"> ![IJ](https://img.shields.io/badge/-IntelliJ-black?logo=intellijidea&style=plastic) <img src="Images/heart.png" style="width:20px">. 
 
-- <img src="https://img.shields.io/badge/-Wordpress-black?logo=Wordpress&logoColor=21759b&style=plastic">
+
+- learned to better design and use tests with ![JUnit](https://img.shields.io/badge/-JUnit-black?logo=junit5&style=plastic), Mockito & WireMock,
 
 
-<h2>Apart from IT, I'm interested in</h2>
+- had an introduction to ![KUBERNETES](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=plastic&logoColor=326CE5)
+
+
+- improved my ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-black?logo=typescript&logoColor=3178C6&style=plastic) and ![ANGULAR](https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=c3002f&style=plastic) skills,
+
+
+- and my ![Figma](https://img.shields.io/badge/-Figma-black?logo=Figma&logoColor=e04a34&style=plastic) skills
+
+
+ #### I'm planning my work on
+
+- ![Notion](https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=FFFFFF&style=plastic)
+
+#### I have also a litte experience on
+
+- ![WordPress](https://img.shields.io/badge/-Wordpress-black?logo=Wordpress&logoColor=21759b&style=plastic)
+
+
+
+
+
+#### Still have to discover properly  ![JENKINS](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=plastic) & ![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible&style=plastic&logoColor=EE0000)
+
+
+
+
+
+## Apart from IT, I'm interested in :
 
 - Aeronautics and space industries.
 
@@ -74,14 +81,13 @@ title="School by Hiit" alt="School by Hiit" width=60px></a> to learn <img src="h
 
         Wind turbine, hydroelectric, nuke, carbon-capture and cogeneration...
 
-- I cook. A. LOT. 
+- I cook. A. LOT.
 
-        That's how I got my wife ;)
 
 - Gardening
 
         I grow food (leeks, potatoes and sweet potatoes, onions...), trees (Olive trees, Alizia julibrissini...), flowers...
-        My terrace (pretty large) is looking like a jungle. :)
+        My terrace (pretty large) does look like a jungle. :)
 
 
 
